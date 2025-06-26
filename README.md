@@ -20,9 +20,7 @@
 
 | Layer | Tech |
 |-------|------|
-| Frontend | HTML, CSS, JavaScript or React |
-| Backend | Python (FastAPI or Flask) |
-| Database | Firebase / SQLite / JSON |
-| Maps | Leaflet + OpenStreetMap or Mapbox |
-| Charting | Chart.js or D3.js |
-| Hosting | Render (backend), Vercel (frontend), Hugging Face Spaces (optional ML)
+| Frontend | Gradio |
+| Backend | FastAPI  |
+| Database | JSON files / Firebase / SQLite |
+| Hosting |  Hugging Face Spaces |
